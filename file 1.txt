@@ -2,7 +2,11 @@ hello
 test1
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 A test
 =======
 B test
 >>>>>>> branch2
+=======
+C test
+>>>>>>> branch3
