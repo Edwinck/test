@@ -1,4 +1,8 @@
 hello
 test1
 
+<<<<<<< HEAD
 A test
+=======
+B test
+>>>>>>> branch2
